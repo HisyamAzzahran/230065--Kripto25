@@ -11,7 +11,7 @@ program untuk mengenkripsi teks dengan **Hill Cipher 2×2** beserta **langkah se
 
 ---
 
-## Alur Program (bahasa manusia)
+## Alur Program
 1. **Bersihin teks**  
    Teks diubah jadi **uppercase** dan dibuang karakter non-hurufnya.  
    Kalau jumlah huruf **ganjil**, program nambahin **`X`** di akhir biar genap (karena diproses per 2 huruf).
