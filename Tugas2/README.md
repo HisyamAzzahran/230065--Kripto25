@@ -4,7 +4,7 @@ program untuk mengenkripsi teks dengan **Hill Cipher 2×2** beserta **langkah se
 
 ---
 
-## Ringkasnya
+## Ringkasan
 - **Input:** plaintext (huruf A–Z) dan matriks 2×2 `a b ; c d`.
 - **Output:** ciphertext + rincian perhitung blok (konversi huruf→angka, kali matriks, mod 26, balik ke huruf).
 - **Contohnya:** `PYTHON` dengan `K = [[7,6],[2,5]]` → `PUTVUP`.
