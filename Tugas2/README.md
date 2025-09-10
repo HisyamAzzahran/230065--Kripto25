@@ -38,11 +38,12 @@ program untuk mengenkripsi teks dengan **Hill Cipher 2×2** beserta **langkah se
 - **Python 3.8+**
 
 ---
+## Running Program
+![alt text](image.png)
 
 ## Cara Menjalankan
 ### 1 Mode Demo 
 ```bash
 python Tugas2.py --demo
----
-## Running Program
-![alt text](image.png)
+
+
