@@ -42,7 +42,7 @@ program untuk mengenkripsi teks dengan **Hill Cipher 2×2** beserta **langkah se
 ## Cara Menjalankan
 ### 1 Mode Demo 
 ```bash
-python Tugas1.py --demo
+python Tugas2.py --demo
 ---
 ## Running Program
 ![alt text](image.png)
